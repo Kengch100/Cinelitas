@@ -1,0 +1,18 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 8, 2023, 8:16:26 PM
+    Author     : Keng
+*/
+
+.center {
+  text-align: center;
+}
+
+.button-color
+{
+    border-radius: 12px;
+    background-color: #f65b4d !important;
+}
